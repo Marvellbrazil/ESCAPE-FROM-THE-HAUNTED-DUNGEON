@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "ESCAPE-FROM-THE-HAUNTED-DUNGEON.slnx"
+    "dotnet.defaultSolution": "escape_from_the_haunted_dungeon.slnx"
 }

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Fruit : MonoBehaviour
+public class Key : MonoBehaviour
 {
     public AudioSource audioSource;
     public AudioClip audioClip;
@@ -12,10 +12,10 @@ public class Fruit : MonoBehaviour
         {
             isCollected = true;
 
-            FruitCollector collector = other.GetComponent<FruitCollector>();
+            KeyCollector collector = other.GetComponent<KeyCollector>();
             if (collector != null)
             {
-                collector.CollectFruit();
+                collector.CollectKeys();
             }
 
             FeedbackOnCollect();

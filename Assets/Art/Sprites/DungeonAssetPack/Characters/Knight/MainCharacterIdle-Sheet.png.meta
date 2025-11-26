@@ -124,10 +124,10 @@ TextureImporter:
       name: MainCharacterIdle-Sheet_0
       rect:
         serializedVersion: 2
-        x: 12
-        y: 63
-        width: 17
-        height: 20
+        x: 13
+        y: 64
+        width: 15
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,10 +146,10 @@ TextureImporter:
       name: MainCharacterIdle-Sheet_1
       rect:
         serializedVersion: 2
-        x: 60
-        y: 63
-        width: 17
-        height: 20
+        x: 61
+        y: 64
+        width: 15
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -168,10 +168,10 @@ TextureImporter:
       name: MainCharacterIdle-Sheet_2
       rect:
         serializedVersion: 2
-        x: 108
-        y: 63
-        width: 17
-        height: 21
+        x: 109
+        y: 64
+        width: 15
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -190,10 +190,10 @@ TextureImporter:
       name: MainCharacterIdle-Sheet_3
       rect:
         serializedVersion: 2
-        x: 156
-        y: 63
-        width: 17
-        height: 21
+        x: 157
+        y: 64
+        width: 15
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -212,10 +212,10 @@ TextureImporter:
       name: MainCharacterIdle-Sheet_4
       rect:
         serializedVersion: 2
-        x: 12
-        y: 15
-        width: 17
-        height: 20
+        x: 13
+        y: 16
+        width: 15
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -234,10 +234,10 @@ TextureImporter:
       name: MainCharacterIdle-Sheet_5
       rect:
         serializedVersion: 2
-        x: 60
-        y: 15
-        width: 17
-        height: 20
+        x: 61
+        y: 16
+        width: 15
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,10 +256,10 @@ TextureImporter:
       name: MainCharacterIdle-Sheet_6
       rect:
         serializedVersion: 2
-        x: 108
-        y: 15
-        width: 17
-        height: 21
+        x: 109
+        y: 16
+        width: 15
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -278,10 +278,10 @@ TextureImporter:
       name: MainCharacterIdle-Sheet_7
       rect:
         serializedVersion: 2
-        x: 156
-        y: 15
-        width: 17
-        height: 21
+        x: 157
+        y: 16
+        width: 15
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,7 +300,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: dd340fe1190516e4f907f4c3b8b75828
     internalID: 0
     vertices: []
     indices: 

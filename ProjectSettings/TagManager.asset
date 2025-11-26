@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Ground
   - Fruit
+  - Key
   layers:
   - Default
   - TransparentFX
